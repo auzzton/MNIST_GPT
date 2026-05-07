@@ -1,2 +1,2 @@
 This is a basic MNIST model using neural networks 
-that works with precision.
+that works with minimal precision.
